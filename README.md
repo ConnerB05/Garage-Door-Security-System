@@ -1,5 +1,5 @@
 # Garage-Door-Security-System-(Python)
-A program created as a final project for Embedded Systems / IoT development
+A program created as a class project for Cybersecurity
 
 The system was built as an academic project to reinforce concepts such as hardware integration, secure authentication, and real-time event handling using Python.
 
